@@ -99,7 +99,20 @@ platforms:
     - id: "zhihu"
       name: "知乎"
       expected_domain: "zhihu.com"
-
+    - id: "ifeng"
+      name: "凤凰网"
+    - id: "netease-news"
+      name: "网易新闻"
+    - id: "sina-news"
+      name: "新浪新闻"
+    - id: "sohu-news"
+      name: "搜狐新闻"
+    - id: "jiemian"
+      name: "界面新闻"
+    - id: "nddaily"
+      name: "南方都市报"
+    - id: "cctv-news"
+      name: "央视新闻"
 
 
 # ===============================================================
